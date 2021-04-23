@@ -1,2 +1,2 @@
 # Google-Code-Jam
-Google Code Jam problem and solutions
+Google Code Jam Problem and Solutions
